@@ -1,0 +1,10 @@
+always_on_top: true
+color: '#453256'
+current_song: -1
+last_artist: Music Widget
+last_link: http://localhost
+last_playlist_url: null
+last_song_title: More Than You Know
+last_thumbnail: ../assets/audio.jpg
+layout: default_layout
+opacity: 1.0
